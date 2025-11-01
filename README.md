@@ -4,10 +4,12 @@
 #### *Jason Waterman*
 
 ## Overview
-The purpose of this project to is analyze Kaggle dataset on the sales of used cars called 'vehicles.csv'. This data set contains information on 426k vehicles sold in the US. The goals of the project are two-fold:
+The purpose of this project to is analyze Kaggle dataset on the sales of used cars called <a href="data/vehicles.csv" target="_blank">vehicles.csv</a>. This data set contains information on 426k vehicles sold in the US. The goals of the project are two-fold:
 - Understand what factors make a car more or less expensive
 - Provide clear recommendatons to the used car delearship (client) to what customers value in a used car
-We will utilize the <a href="data/crisp.png" target="_blank">CRISP-DM</a> process framework for AI/ML projects.
+We will utilize the <a href="images/crisp.png" target="_blank">CRISP-DM</a> process framework for AI/ML projects.
+
+Click on this this link for the main project Jupyter notebook: <a href="used_car_price_drivers.ipynb" target="_blank">used_car_price_drivers.ipynb</a>
 
 ## Business Problem
 We want to determine what drives the sales prices of our used cars. Fortunately, we have access to a comprehensive database of 426k vehicles that gives us actual customer and vehicle data on vehicles that have been sold. We can utilize this nationwide information to help us more clearly understand what are the main drivers of vehicle price, both positive drivers and negative drivers. For this project we will examine the data using modern data mining techniques and data modeling analysis to access the price drivers. We will then provide a list of recommendations for our chain of used car dealerships and their salespersons to improve our overall total sales volumn and profit margins. 
